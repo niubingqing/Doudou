@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/business-workflow-common/business-workflow-common.iml" filepath="$PROJECT_DIR$/business-workflow-common/business-workflow-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-workflow-config/business-workflow-config.iml" filepath="$PROJECT_DIR$/business-workflow-config/business-workflow-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-workflow-core/business-workflow-core.iml" filepath="$PROJECT_DIR$/business-workflow-core/business-workflow-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-workflow-data/business-workflow-data.iml" filepath="$PROJECT_DIR$/business-workflow-data/business-workflow-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-workflow-server/business-workflow-server.iml" filepath="$PROJECT_DIR$/business-workflow-server/business-workflow-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudou-parent.iml" filepath="$PROJECT_DIR$/doudou-parent.iml" />
+    </modules>
+  </component>
+</project>
